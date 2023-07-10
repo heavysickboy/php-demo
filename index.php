@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP! freestyle pipeline!!</p>'; ?> 
+ <?php echo '<p>Hello world from PHP! Freestyle pipeline!!</p>'; ?> 
  </body>
 </html>
